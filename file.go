@@ -1,1 +1,1 @@
-jkkbjjh
+func main() {}
